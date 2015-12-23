@@ -1,0 +1,738 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- 
+    Dragonfruit Template 
+    http://www.templatemo.com/preview/templatemo_411_dragonfruit 
+    -->
+    <title>BITS Embryo</title>
+    <meta name="description" content="" />
+    <!-- templatemo 411 dragonfruit -->
+    <meta name="author" content="templatemo">
+    <!-- Favicon-->
+    <link rel="shortcut icon" href="./favicon.png" />		
+    <!-- Font Awesome -->
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Camera -->
+    <link href="css/camera.css" rel="stylesheet">
+    <!-- Template  -->
+    <link href="css/templatemo_style.css" rel="stylesheet">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+<body>
+
+<div id="templatemo_mobile_menu">
+        <ul class="nav nav-pills nav-stacked">
+            <li><a href="index.html#templatemo_banner_slide"><i class="glyphicon glyphicon-home"></i> &nbsp; Home</a></li>
+            <li><a href="index.html#templatemo_about"><i class="glyphicon glyphicon-briefcase"></i> &nbsp; About</a></li>
+            <li><a href="index.html#events"><i class="glyphicon glyphicon-bullhorn"></i> &nbsp; Events</a></li>
+            <li><a href="index.html#templatemo_timeline"><i class="glyphicon glyphicon-calendar"></i> &nbsp; Timeline</a></li>
+            <li><a rel="nofollow" href="external.html" class="external-link"><i class="glyphicon glyphicon-export"></i> &nbsp; Archive</a></li>
+            <li><a href="index.html#templatemo_contact"><i class="glyphicon glyphicon-phone-alt"></i> &nbsp; Contact</a></li>
+        </ul>
+</div>      
+
+
+<div class="container_wapper">
+    <div id="templatemo_banner_menu">
+        <div class="container-fluid">
+            <div class="col-xs-4 templatemo_logo">
+            	<a rel="nofollow" href="index.html">
+                	<img src="images/l3.png" id="logo_img"  />
+                	
+                </a>
+            </div>
+            <div class="col-sm-8 hidden-xs">
+                <ul class="nav nav-justified">
+                    <li><a href="index.html#templatemo_banner_slide" class="external-link">Home</a></li>
+                    <li><a href="index.html#templatemo_about" class="external-link">About</a></li>
+                    <li><a href="index.html#events" class="external-link">Events</a></li>
+                    <li><a href="index.html#templatemo_timeline" class="external-link">Timeline</a></li>
+                    <li><a href="external.html" class="current">Archive</a></li>
+                    <li><a href="index.html#templatemo_contact"  class="external-link">Contact</a></li>
+                 </ul>
+            </div>
+            <div class="col-xs-4 visible-xs">
+                <a href="#" id="mobile_menu"><span class="glyphicon glyphicon-th-list"></span></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="templatemo_events" class="container_wapper">
+    <div class="container-fluid">
+        <h1>Archive</h1>
+        
+
+        <div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
+            <div class="event_box_wap event_animate_left">
+                <div class="event_box_img">
+                    <img src="images/Gayle McDowell.jpg" class="img-responsive" alt="Free Bootstrap Seminar" />
+                </div>
+                <div class="event_box_caption">
+                    <h1>Quantum Computing</h1>
+                    <p><span class="glyphicon glyphicon-user"></span> <a class="external-link"  href="google.com" target="_blank">Dr. Michele Mosca</a>&nbsp;&nbsp; <span class="glyphicon glyphicon-time"></span> Mar 14</p>
+                    <p>Dr. Michele Mosca, co-founder and deputy director of the Institute of Quantum Computing at the University of Waterloo, holding a D.Phil in Quantum Computing Algorithms.&nbsp;&nbsp;<button data-toggle="modal" data-target="#HerModal" class="btn btn-primary" style="background-color:green">Read More.. </button></p>
+                </div>
+            </div>
+        </div>
+        <div id="HerModal" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Quantum Computing</h4>
+</div>
+<div class="modal-body">
+ <p> Dr. Mosca started off his talk by explaining how modern physics came to be, and how one of its consequences is the field of quantum computing. A Quantum Computer is similar to an ordinary one, with the difference being in the implementation of a bit. A Quantum Computer may still be a long way down the road, but the destination is not unclear as it was a few years ago.
+</p>
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+        <div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
+            <div class="event_box_wap event_animate_right">
+                <div class="event_box_img">
+                    <img src="images/krishna saraswat.jpg" class="img-responsive" alt="Free Bootstrap Seminar" />
+                </div>
+                <div class="event_box_caption">
+                    <h1>What Makes Silicon Valley Tick</h1>
+                    <p><span class="glyphicon glyphicon-user"></span> <a class="external-link"  href="google.com" target="_blank">Prof Krishna Saraswat</a>&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Mar 10 2014</p> 
+                    <p>Prof. Krishna Saraswat received Ph.D. in Electrical Engineering from Stanford University in 1974. He is Rickey/Nielsen Chair Professor in the School of Engineering, Professor of Electrical Engineering and by courtesy Professor of Materials Science & Engineering at Stanford University.&nbsp;&nbsp;<button data-toggle="modal" data-target="#2" class="btn btn-primary" style="background-color:green">Read More.. </button></p>
+                </div>
+            </div>
+        </div>
+        <div id="2" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >What Makes Silicon Valley Tick</h4>
+</div>
+<div class="modal-body">
+<p>He also has an honorary appointment of an Adjunct Professor at the Birla Institute of Technology and Science, Pilani, India since January 2004.The evolution of the Silicon Valley system shows importance of young people and importance of existing companies allowing a fluid labor market and doing business with start-up companies. Having seen Silicon Valley grow to its present aura, his talk focused on the aspects of Silicon Valley as well as resulting innovations.</p>
+
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
+            <div class="event_box_wap event_animate_left">
+                <div class="event_box_img">
+                    <img src="images/Gayle McDowell.jpg" class="img-responsive" alt="Free Bootstrap Seminar" />
+                </div>
+                <div class="event_box_caption">
+                    <h1>Pearl: ASPIRE Talks</h1>
+                    <p><span class="glyphicon glyphicon-user"></span> <a class="external-link"  href="google.com" target="_blank">Mr. Pranava Singhal</a>&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Mar 09 2014</p> 
+                    <p>Mr. Pranava Singhal, Popular in campus as the energetic instructor of the Theatre Art and Production course&nbsp;&nbsp;<button data-toggle="modal" data-target="#3" class="btn btn-primary" style="background-color:green">Read More.. </button></p>
+                </div>
+            </div>
+        </div>
+        <div id="3" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Pearl: ASPIRE Talks</h4>
+</div>
+<div class="modal-body">
+ He is renowned for his multifaceted profile, as Secretary of Dramatics Clubs of Hyderabad (DCH) as well as the CEO of Axis Diesel International. At Aspire, Mr. Singhal gave a brief overview of his career. He spoke about his deep interest in dramatics, as well as his management education which he pursued parallel. He stressed on the point of working on what we feel interested in and gave the wonderful example of Tom Sawyer’s painting episode. He also emphasised the importance of bouncing back, saying that “Your assumptions are the windows of your life. Keep gleaning to see the picture.”
+
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
+            <div class="event_box_wap event_animate_right">
+                <div class="event_box_img">
+                    <img src="images/Jayesh Ranjan.jpg" class="img-responsive" alt="Free Bootstrap Seminar" />
+                </div>
+                <div class="event_box_caption">
+                    <h1>Pearl: ASPIRE Talks</h1>
+                    <p><span class="glyphicon glyphicon-user"></span> <a class="external-link"  href="google.com" target="_blank">Dr. Jayesh Ranjan</a>&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Mar 09 2014</p> 
+                    <p>Dr. Ranjan is the Managing Director of the Andhra Pradesh Industrial Infrastructure Corporation (APIIC). His previous assignments have been in the Tourism Department of the state government as its Secretary, and in Hyderabad Urban Development Authority (HUDA) as Vice Chairman.&nbsp;&nbsp;<button data-toggle="modal" data-target="#4" class="btn btn-primary" style="background-color:green">Read More.. </button></p>
+                </div>
+            </div>
+        </div>
+        <div id="4" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Pearl: ASPIRE Talks</h4>
+</div>
+<div class="modal-body">
+  A highly qualified civil servant, Dr. Ranjan has been closely associated with BITS Pilani. He presented his last lecture in a unique manner, by narrating the stories of four of his colleagues in the IAS, who were incidentally from BITS Pilani. The ideas enshrined in his tales were diverse. He spoke about people who had achieved all the success in life, yet ended up with a broken family. Another incident was of a person who went the wrong way in life,  but certain incidents corrected him and now he is quite successful. His frank manner, was extremely endearing, and his anecdotes earned him a lot of applause from the audience. 
+
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
+            <div class="event_box_wap event_animate_left">
+                <div class="event_box_img">
+                    <img src="images/Gayle McDowell.jpg" class="img-responsive" alt="Free Bootstrap Seminar" />
+                </div>
+                <div class="event_box_caption">
+                    <h1>Pearl: ASPIRE Talks</h1>
+                    <p><span class="glyphicon glyphicon-user"></span> <a class="external-link"  href="google.com" target="_blank">Ajita Suchitra Veera</a>&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Mar 09 2014</p> 
+                    <p>Among the distinguished guests present at Pearl was Ms. Ajita Suchitra Veera, a filmmaker. Her claim to fame was her film “The Ballad of Rustom”, an Oscar nominated film.&nbsp;&nbsp;<button data-toggle="modal" data-target="#5" class="btn btn-primary" style="background-color:green">Read More.. </button></p>
+                </div>
+            </div>
+        </div>
+        <div id="5" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Pearl: ASPIRE Talks</h4>
+</div>
+<div class="modal-body">
+ Ms. Veera spoke about her love for cinema, how I during her childhood, she would be deeply engrossed with movies. A graduate of the Film and Televison Institute of India (FTTI), she was also a top student at school. Specialising in genetics, she spoke about how she received her acceptance letter from the FTTI, on the day before her departure to the US for her higher studies. She emphasised the importance of faliures in ever success. She also mentioned the hardships of film-making, about the enormous amount of multitasking required. At the end of the speech, one question was on everyone’s mind, for her “How do I become a filmmaker?”
+
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
+            <div class="event_box_wap event_animate_right">
+                <div class="event_box_img">
+                    <img src="images/Gayle McDowell.jpg" class="img-responsive" alt="Free Bootstrap Seminar" />
+                </div>
+                <div class="event_box_caption">
+                    <h1>Pearl: ASPIRE Talks</h1>
+                    <p><span class="glyphicon glyphicon-user"></span> <a class="external-link"  href="google.com" target="_blank">Mr. Shakti Sagar</a>&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Mar 09 2014</p> 
+                    <p>Mr. Shakti Sagar is the Managing Director of ADP Pvt. Ltd., a fully owned subsidiary of Automatic Data Processing, Inc. USA with revenues of over USD 10 Billion. He was also the chairman of CII, Andhra Pradesh.&nbsp;&nbsp;<button data-toggle="modal" data-target="#6" class="btn btn-primary" style="background-color:green">Read More.. </button></p>
+                </div>
+            </div>
+        </div>
+        <div id="6" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Pearl: ASPIRE Talks</h4>
+</div>
+<div class="modal-body">
+  With over thirty five years of cross-function experience in the Office Automation and IT/ITES industry, Mr. Sagar has worked with many start-up ventures and also played a key role in their success. In his talk, he stressed upon the importance of thinking differently. He urged the audience to listen to their conscience. He also said that, in order to succeed, we need to look at ourselves, rather than blaming others. He mentioned his own story, how he began as a salesman, and today was the MD of a corporation. 
+
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
+            <div class="event_box_wap event_animate_left">
+                <div class="event_box_img">
+                    <img src="images/Gayle McDowell.jpg" class="img-responsive" alt="Free Bootstrap Seminar" />
+                </div>
+                <div class="event_box_caption">
+                    <h1>Pearl: ASPIRE Talks</h1>
+                    <p><span class="glyphicon glyphicon-user"></span> <a class="external-link"  href="google.com" target="_blank">Zakir Alladin</a>&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Mar 09 2014</p> 
+                    <p>Zakir Alladin is the founder of Mowzz Audio, a lights and sounds start-up. Mr Alladin did his schooling in Hyderabad Public School and later on completed his DFM in Finance from Symbiosis International University.&nbsp;&nbsp;<button data-toggle="modal" data-target="#7" class="btn btn-primary" style="background-color:green">Read More.. </button></p>
+                </div>
+            </div>
+        </div>
+        <div id="7" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Pearl: ASPIRE Talks</h4>
+</div>
+<div class="modal-body">
+  Mowzz Audio, a start-up conceived by Zakir Alladin in 1992, is a company which provides an A-Z solution for all your lighting and sound requirements for any event. It began as his interest in lights and sounds, and tday it is one of the top Lights and Sounds company.He emphasised the importance of following our hearts, not heads. He said, that it is important that we work for our dreams, and not care about the money. He said that, it is when we lose, we get our learning moment. He also spoke about the importance of originality. To quote him, “Do something new. Do not reinvent the wheel.”
+
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+
+
+        <div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
+            <div class="event_box_wap event_animate_right">
+                <div class="event_box_img">
+                    <img src="images/Gayle McDowell.jpg" class="img-responsive" alt="Free Bootstrap Seminar" />
+                </div>
+                <div class="event_box_caption">
+                    <h1>Talk on Foreign Internships</h1>
+                    <p><span class="glyphicon glyphicon-user"></span> Students selected for Viterbi, MITACS and DAAD Scholarships&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Feb 11 2014</p> 
+                    <p>The meet started off with USC VITERBI School of Engineering, one of the best tech schools in U.S. Two of our students, RanjanAnantharaman&Sanjana Reddy, got the opportunity for a summer internship out there.
+&nbsp;&nbsp;<button data-toggle="modal" data-target="#10" class="btn btn-primary" style="background-color:green">Read More.. </button></p>
+                </div>
+            </div>
+        </div>
+        <div id="10" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Talk on Foreign Internships</h4>
+</div>
+<div class="modal-body">
+Ranjan began on a light note, stating Hollywood was mere 6 miles from USC. We can expect him to have lots of fun out there. He outlined the procedure to apply, pointing amount of course work, possible research done and opportunities. 
+    <p>He stressed on the importance of having a strong profile.  We have loads of engineers in our country with similar profile and most don’t get what they want. What separates them? English. We need to express ourselves properly and present in an appropriate manner. </p>
+<p>Switching to ground work, Ranjan stated the importance of approaching professors and trying to get projects towards the end of 2-2. He made us aware of PS being different from a project. He was fortunate to get a PS at IGCAR, Kalpakam, but his project was completely different from what he is to do at VITERBI. Ranjan marked 3-1 as the time of introspection. He stated the importance of knowing what we are doing. Try to think about projects and if possible make bold research statements, etc.</p>
+   <p> Coming back to VITERBI, he prophesied the necessity of being honest and writing well. Only 20 students are selected from India and that too mostly from IITs. Very few are lucky to have a strong profile as Sanjana, a 9.7 pointer. So, we need to give our best shot and convince our professor about contributing in his work. Coming to professors, he said it is extremely important to do a background check on the professors and look for those working in your field of interest.</p>
+<p>Adding to Ranjan’s thoughts, Sanjana recalled the importance of good project in PS and necessity of recommendations from project guides.</p>
+<p>Next up we moved to another part of U.S., Atlanta, Georgia. RajatSaxena made us proud by securing a summer internship out there. He also has a project in hand at the Washington University. Rajat seemed to have an instant connect with the audience, partly due to his CG. There was a huge applause when he mentioned his CG was less than 8.5 and 7.47 to be precise.</p>
+<p>Sharing his modus operandi, he recalled sending mails to professors of his liking in prestigious universities like Ohio, Georgia, etc.  He gave an important tip of not attaching your CV as prof. might regard it as spam. Rather, we might give a Google link to our profile.</p>
+    <p>In his address to 2nd year students, he said this is time for self-realisation. Similar to Ranjan, he stated on the importance of choosing what is best for you, GRE, CAT, GMAT, etc. Also, one shouldn’t wait for projects, rather try open source or informal projects. First, find your interests and start learning about it as there is no end to learning.</p>
+
+
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+
+ 
+        <div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
+            <div class="event_box_wap event_animate_left">
+                <div class="event_box_img">
+                    <img src="images/Gayle McDowell.jpg" class="img-responsive" alt="" />
+                </div>
+                <div class="event_box_caption">
+                    <h1>Cracking a coding interview</h1>
+                    <p><span class="glyphicon glyphicon-map-marker"></span><a class="external-link"  href="google.com" target="_blank"> Ms.Gayle McDowell</a> &nbsp;&nbsp; <span class="glyphicon glyphicon-time"></span> Jan 21 2014 </p>
+                    <p>Getting selected as a top software developer by a big tech company is a dream for many. In one of our recent talks we had Ms.Gayle McDowell giving an insight on the preparation process for an interview. <button data-toggle="modal" data-target="#n" class="btn btn-primary" style="background-color:green">Read More.. </button></p>
+                </div>
+            </div>
+        </div>
+        <div id="n" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Cracking a coding interview</h4>
+</div>
+<div class="modal-body">
+Getting selected as a top software developer by a big tech company is a dream for many. In one of our talks, we had Ms.Gayle McDowell giving an insight on the preparation process for an interview, with an overview of the questions and the evaluation criteria. Gayle Laakmann McDowell is the founder / CEO of Career group. 
+
+
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
+            <div class="event_box_wap event_animate_right">
+                <div class="event_box_img">
+                    <img src="images/Raghavendra Prdyumna.jpg" class="img-responsive" alt="Free Bootstrap Seminar" />
+                </div>
+                <div class="event_box_caption">
+                    <h1>General Interactive Session on MS/PhD</h1>
+                    <p><span class="glyphicon glyphicon-user"></span> <a class="external-link"  href="google.com" target="_blank">Raghavendra Pradyumna</a>&nbsp;&nbsp; <span class="glyphicon glyphicon-time"></span> Oct 20 2013</p>
+                    <p>The talk with 10 pointer Raghavendra Pradyumna Kuchipochi started off with him first mentioning that it would primarily be interactive, as he believed that would prove to be beneficial to the students.&nbsp;&nbsp;<button data-toggle="modal" data-target="#9" class="btn btn-primary" style="background-color:green">Read More.. </button></p>
+                </div>
+            </div>
+        </div>
+        <div id="9" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >General Interactive Session on MS/PhD</h4>
+</div>
+<div class="modal-body">
+He initially started off by stating that one piece of advice he would give to all the students is to do well in academics. He elaborated further saying that by doing well, he meant for us to learn to apply a concepts in class, for which one had to understand the theory and think beyond. He wrapped up the session wishing the students all the best for their higher studies and asking them to explore and work their way through.
+
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
+            <div class="event_box_wap event_animate_left">
+                <div class="event_box_img">
+                    <img src="images/Kartik Kumar(road to space).jpg" class="img-responsive" alt="Free Bootstrap Seminar" />
+                </div>
+                <div class="event_box_caption">
+                    <h1>Road to Space</h1>
+                    <p><span class="glyphicon glyphicon-user"></span> <a class="external-link"  href="google.com" target="_blank">Mr. Kartik Kumar</a>&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Oct 21 2013</p> 
+                    <p>Mr. Kartik Kumar, a Phd candidate at the Delft University of Technology, the Netherlands. He is pursuing it in the Aerospace Engineering Department of TU Delft, specialising in Astrodynamics.
+&nbsp;&nbsp;<button data-toggle="modal" data-target="#8" class="btn btn-primary" style="background-color:green">Read More.. </button></p>
+                </div>
+            </div>
+        </div>
+        <div id="8" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Road to Space</h4>
+</div>
+<div class="modal-body">
+After an initial discussion about the subject, he then went on to describe the projects he worked upon. He then went on to speak about the future of the Space industry, which he said was in commercialisation and privatisation of space.
+
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
+            <div class="event_box_wap event_animate_right">
+                <div class="event_box_img">
+                    <img src="images/Gayle McDowell.jpg" class="img-responsive" alt="Free Bootstrap Seminar" />
+                </div>
+                <div class="event_box_caption">
+                    <h1>Atmos Conclave</h1>
+                    <p><span class="glyphicon glyphicon-user"></span> <a class="external-link"  href="google.com" target="_blank">Mr K. Vijay Rao </a>&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Oct 13 2013</p> 
+                    <p> Mr Rao, a former MD of AT&T and former CEO of Escotel, credited for creating the market for call centres and voice mails in South East Asia.&nbsp;&nbsp;<button data-toggle="modal" data-target="#11" class="btn btn-primary" style="background-color:green">Read More.. </button></p>
+                </div>
+            </div>
+        </div>
+        <div id="11" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Atmos Conclave</h4>
+</div>
+<div class="modal-body">
+  He started off by stressing the importance of innovation, and specified four criteria for successful innovation; creative leadership, team building, creative climate/ environment and resources. He cited examples from his past experiences in AT&T / Muffatlal to put forth his point. All in all, he wanted us to  have an open mind about our abilities and use collaboration and proper direction as tools for successful innovations. His talk was all about making us realise that innovation is the key to realising one's dream. An innovative approach is crucial for the success of a person's dream. 
+
+
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
+            <div class="event_box_wap event_animate_left">
+                <div class="event_box_img">
+                    <img src="images/Gayle McDowell.jpg" class="img-responsive" alt="Free Bootstrap Seminar" />
+                </div>
+                <div class="event_box_caption">
+                    <h1>Atmos Conclave</h1>
+                    <p><span class="glyphicon glyphicon-user"></span> <a class="external-link"  href="google.com" target="_blank">Mr Mani Shankar</a>&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Oct 13 2013</p> 
+                    <p> Mr. Mani Shankar, an alumnus from BITS Pilani, and prominent Bollywood movie director, was more easy going, giving humorous touch to his talk by recounting a few memorable experiences from his days at Pilani.&nbsp;&nbsp;<button data-toggle="modal" data-target="#12" class="btn btn-primary" style="background-color:green">Read More.. </button></p>
+                </div>
+            </div>
+        </div>
+        <div id="12" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Atmos Conclave</h4>
+</div>
+<div class="modal-body">
+   He urged us to live our lives outside the box, cut out of the confinements and stop living by set patterns rigidly. Mr Shankar stressed on following one’s dream, mainstream or otherwise and making a success story out of it. 
+
+
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
+            <div class="event_box_wap event_animate_right">
+                <div class="event_box_img">
+                    <img src="images/Gayle McDowell.jpg" class="img-responsive" alt="Free Bootstrap Seminar" />
+                </div>
+                <div class="event_box_caption">
+                    <h1>Atmos Conclave</h1>
+                    <p><span class="glyphicon glyphicon-user"></span> <a class="external-link"  href="google.com" target="_blank"> Prof. Nandi SK</a>&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Oct 13 2013</p> 
+                    <p> Professor Nandy commenced stating that things get boring when we define them too well, an optimization problem.&nbsp;&nbsp;<button data-toggle="modal" data-target="#13" class="btn btn-primary" style="background-color:green">Read More.. </button></p>
+                </div>
+            </div>
+        </div>
+        <div id="13" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Atmos Conclave</h4>
+</div>
+<div class="modal-body">
+  He compared research with a painting, saying that a researcher alone can decide when his research is complete, just as a painter would know when his masterpiece is done. He also mentioned research leads to innovation and entrepreneurship leads the innovation forward. He talked about his experience with computers and shared how he discovered his passion, and also highlighted his  academic goals and their realization.
+
+
+
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
+            <div class="event_box_wap event_animate_left">
+                <div class="event_box_img">
+                    <img src="images/Gayle McDowell.jpg" class="img-responsive" alt="Free Bootstrap Seminar" />
+                </div>
+                <div class="event_box_caption">
+                    <h1>Atmos Conclave</h1>
+                    <p><span class="glyphicon glyphicon-user"></span> <a class="external-link"  href="google.com" target="_blank">Dr. Venkat Sai Ram</a>&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Oct 13 2013</p> 
+                    <p> Dr. Venkat Sai Ram, a Padmashree winner, the  arbitrator between the speakers and audience, chose to share his views about excellence and its prerogatives.&nbsp;&nbsp;<button data-toggle="modal" data-target="#14" class="btn btn-primary" style="background-color:green">Read More.. </button></p>
+                </div>
+            </div>
+        </div>
+        <div id="14" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Atmos Conclave</h4>
+</div>
+<div class="modal-body">
+ Dr. Ram, the director of Apollo Institue for blood pressure management and Texas blood pressure institute, talked about pursuit of excellence in daily life and advised us to put in our best efforts, irrespective of the situation, and not to go too much off focus from our goals. He abbreviated FEAR as False Evidence Appearing Real, and disclosed that there is no such phrase as 'for better or for worse’; it always is 'for better and for better'. On a final note, he stated that greatness can be thrust; however, excellence can only be achieved by commitment.
+
+
+
+
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
+            <div class="event_box_wap event_animate_right">
+                <div class="event_box_img">
+                    <img src="images/Gayle McDowell.jpg" class="img-responsive" alt="Free Bootstrap Seminar" />
+                </div>
+                <div class="event_box_caption">
+                    <h1>Have you planned an MBA career in ISB?</h1>
+                    <p><span class="glyphicon glyphicon-user"></span> <a class="external-link"  href="google.com" target="_blank">Mr. Rajroshan Sawhney</a>&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Oct 7 2013</p> 
+                    <p> Embryo hosted an informative talk regarding the prestigious Young Leaders Programme (YLP) at the Indian School of Business (ISB) which had Mr. Rajroshan Sawhney, as our guest speaker. Mr. Sawhney is a BITSian from Goa Campus, and is currently based out in Singapore&nbsp;&nbsp;<button data-toggle="modal" data-target="#15" class="btn btn-primary" style="background-color:green">Read More.. </button></p>
+                </div>
+            </div>
+        </div>
+        <div id="15" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Have you planned an MBA career in ISB?</h4>
+</div>
+<div class="modal-body">
+ Embryo hosted an informative talk regarding the prestigious Young Leaders Programme (YLP) at the Indian School of Business (ISB) which had Mr. Rajroshan Sawhney, as our guest speaker. The Young Leaders Programme (YLP) at the Indian School of Business (ISB) is one of the most coveted programmes that will help undergraduate students gain a fresh perspective in management studies. The speaker guided the students through the application procedure required for this programme. 
+
+
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
+            <div class="event_box_wap event_animate_left">
+                <div class="event_box_img">
+                    <img src="images/Gayle McDowell.jpg" class="img-responsive" alt="Free Bootstrap Seminar" />
+                </div>
+                <div class="event_box_caption">
+                    <h1>Pre-ATMOS</h1>
+                    <p><span class="glyphicon glyphicon-user"></span> <a class="external-link"  href="google.com" target="_blank">Ayanna MacCalla Howard</a>&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Sept 3 2013</p> 
+                    <p> Ayanna MacCalla Howard is an accomplished American roboticist and an Associate Professor at the School of Electrical and Computer Engineering, Georgia Institute of Technology. &nbsp;&nbsp;<button data-toggle="modal" data-target="#16" class="btn btn-primary" style="background-color:green">Read More.. </button></p>
+                </div>
+            </div>
+        </div>
+        <div id="16" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Pre-ATMOS</h4>
+</div>
+<div class="modal-body">
+  For this session, Dr. Ayana MacCalla Howard was gracious enough to make a visit to our college BITS Pilani Hyderabad Campus during the pre-Atmos lecture series and provide us with an enriching experience and insight into her field of research on the humanized intelligence of robots. She describes it as "centered around the concept of humanized intelligence, the process of embedding the human cognitive capability into the control path of autonomous systems".
+
+
+
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
+            <div class="event_box_wap event_animate_right">
+                <div class="event_box_img">
+                    <img src="images/Gayle McDowell.jpg" class="img-responsive" alt="Free Bootstrap Seminar" />
+                </div>
+                <div class="event_box_caption">
+                    <h1>Pre-ATMOS</h1>
+                    <p><span class="glyphicon glyphicon-user"></span> <a class="external-link"  href="google.com" target="_blank">Dr. Robert Wolcott</a>&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Sept 5 2013</p> 
+                    <p>  Dr. Robert Wolcott is a leading academic and applied thought leader. He has more than two decades of experience developing innovation and growth strategies with both global and entrepreneurial start-ups within a range of industries.&nbsp;&nbsp;<button data-toggle="modal" data-target="#17" class="btn btn-primary" style="background-color:green">Read More.. </button></p>
+                </div>
+            </div>
+        </div>
+        <div id="17" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Pre-ATMOS</h4>
+</div>
+<div class="modal-body">
+Dr. Robert Wolcott is a leading academic and applied thought leader. Dr. Wolcott has drawn a strategic plan on how to build entrepreneurial capabilities. He delivered a lecture on the seven steps to climbing the chair.
+
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
+            <div class="event_box_wap event_animate_left">
+                <div class="event_box_img">
+                    <img src="images/Gayle McDowell.jpg" class="img-responsive" alt="Free Bootstrap Seminar" />
+                </div>
+                <div class="event_box_caption">
+                    <h1>Pre-ATMOS</h1>
+                    <p><span class="glyphicon glyphicon-user"></span> <a class="external-link"  href="google.com" target="_blank">Dr.Irvine Halliday</a>&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Sept 6 2013</p> 
+                    <p> Dr.Irvine Halliday from the Light Up The World Foundation. A professor of Electrical Engg. at the University of Callgray.&nbsp;&nbsp;<button data-toggle="modal" data-target="#18" class="btn btn-primary" style="background-color:green">Read More.. </button></p>
+                </div>
+            </div>
+        </div>
+        <div id="18" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Pre-ATMOS</h4>
+</div>
+<div class="modal-body">
+ It was his vision to use LED lighting to bring practical, economical, and environmentally safe lighting to the developing world. Today the foundation is working over more than 50 countries in bringing the gift of light. </p>
+
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+        <div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
+            <div class="event_box_wap event_animate_right">
+                <div class="event_box_img">
+                    <img src="images/Gayle McDowell.jpg" class="img-responsive" alt="Web Design Trends" />
+                </div>
+                <div class="event_box_caption">
+                    <h1>BITS2MSPHD: Knowing all about the application process</h1>
+                    <p><span class="glyphicon glyphicon-user"></span> <a class="external-link"  href="google.com" target="_blank">Varsha Rajshekar</a>&nbsp;&nbsp; <span class="glyphicon glyphicon-time"></span> Aug 31 2013</p>
+                    <p>"Learning gives creativity,Creativity leads to thinking 
+Thinking provides knowledge,Knowledge makes you great"&nbsp;&nbsp;<button data-toggle="modal" data-target="#20" class="btn btn-primary" style="background-color:green">Read More.. </button></p>
+
+                </div>
+            </div>
+        </div>
+        <div id="20" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Pre-ATMOS</h4>
+</div>
+<div class="modal-body">
+ <p>Srivarsha Rajshekhar and Adwait Gandhe talked about the application process for MS in foreign universities, in this BITS2MSPhD guidance session. They took the aspirants through all the intricacies involved in preparing a good application. The session was very useful and informative for all aspirants. 
+</p>
+
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0">
+            <div class="event_box_wap event_animate_left">
+                <div class="event_box_img">
+                    <img src="images/kiran bedi.jpg" class="img-responsive" alt="Free Bootstrap Seminar" />
+                </div>
+                <div class="event_box_caption">
+                    <h1>Importance of Leadership in today’s India</h1>
+                    <p><span class="glyphicon glyphicon-user"></span> <a class="external-link"  href="google.com" target="_blank">Dr. Kiran Bedi</a>&nbsp;&nbsp;<span class="glyphicon glyphicon-time"></span> Aug 20 2013</p> 
+                    <p> The first female IPS officer of the country, an inspiration to millions, and a woman of principles, Dr, Kiran Bedi.&nbsp;&nbsp;<button data-toggle="modal" data-target="#19" class="btn btn-primary" style="background-color:green">Read More.. </button></p>
+                </div>
+            </div>
+        </div>
+        <div id="19" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Importance of Leadership in today’s India</h4>
+</div>
+<div class="modal-body">
+ “I wake up every morning to a new day but the same old misery, I see the chains binding us for centuries are still holding tight, with each passing day they pull us deeper into their embrace…” Dr Kiran Bedi, the first female IPS officer of the country, focused on the role, leadership plays in our daily life in this thought provoking talk. She inspired many to engage in constant reevaluation of one's thoughts and beliefs. 
+
+
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+    </div>
+</div>
+
+<div id="templatemo_footer">
+    <div>
+        <p id="footer">Copyright &copy; 2084 Company Name</p>
+    </div>
+</div>
+<script src="js/jquery.min.js"></script>
+<script src="js/jquery-ui.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.singlePageNav.min.js"></script>
+<script src="js/unslider.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+<script src="js/templatemo_script.js"></script>
+</body>
+</html>

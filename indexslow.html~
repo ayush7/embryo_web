@@ -1,0 +1,841 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>BITS Embryo</title>
+    <meta name="description" content="" />
+    <!-- Favicon-->
+    <link rel="shortcut icon" href="./favicon.png" />		
+    <!-- Font Awesome -->
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Camera -->
+    <link href="css/camera.css" rel="stylesheet">
+    <!-- Template  -->
+    <link href="css/templatemo_style.css" rel="stylesheet">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head><body>
+<div style="margin-top:54px; background:url('images/gradient.png');" id="embryo">
+    <table align="center" >
+	<tr>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Pratyush Mahapatra.jpg" height="100px"width="100px"onmouseover="this.src='images/color/Pratyush Mahapatra.jpg'" onmouseout="this.src='images/bnw/Pratyush Mahapatra.jpg'"/><div class="caption"><br><p class="hovertext">P. Mahapatra</p></div>  </div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Advait Gandhe.jpg" height="100px"width="100px" onmouseover="this.src='images/color/Advait Gandhe.jpg'" onmouseout="this.src='images/bnw/Advait Gandhe.jpg'"/><div class="caption"><br><p class="hovertext">A. Gandhe</p></div>  </div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Prof Dave Irvine Halliday.jpg" height="100px"width="100px" onmouseover="this.src='images/color/Prof Dave Irvine Halliday.jpg'" onmouseout="this.src='images/bnw/Prof Dave Irvine Halliday.jpg'"/><div class="caption"><br><p class="hovertext">Prof D. Halliday</p></div> </div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Shivakumar Ganesan.jpg" height="100px" width="100px" onmouseover="this.src='images/color/Shivakumar Ganesan.jpg'" onmouseout="this.src='images/bnw/Shivakumar Ganesan.jpg'"/><div class="caption"><br><p class="hovertext">S. Ganesan</p></div> </div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Kartikeyan Krishnamurti.jpg" height="100px"width="100px" onmouseover="this.src='images/color/Kartikeyan Krishnamurti.jpg'" onmouseout="this.src='images/bnw/Kartikeyan Krishnamurti.jpg'"/><div class="caption"><br><p class="hovertext">K. Krishnamurti</p></div></div></td>
+			<td class="spk" colspan="2" rowspan="2" ><div class="imageHolder2"><img src="images/bnw/Venkat Sai Ram.jpg" height="200px" width="200px" onmouseover="this.src='images/color/Venkat Sai Ram.jpg'" onmouseout="this.src='images/bnw/Venkat Sai Ram.jpg'"/><div class="caption2"><br><p class="hovertext2">Venkat Sai Ram</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Shashank S.jpg" height="100px"width="100px" onmouseover="this.src='images/color/Shashank S.jpg'" onmouseout="this.src='images/bnw/Shashank S.jpg'"/><div class="caption"><br><p class="hovertext">Shashank S.</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Chinmaya Patnayak.jpg" height="100px" width="100px" onmouseover="this.src='images/color/Chinmaya Patnayak.jpg'" onmouseout="this.src='images/bnw/Chinmaya Patnayak.jpg'"/><div class="caption"><br><p class="hovertext">C. Patnayak</p></div></div></td>
+
+<td class="spk"><div class="imageHolder"><img src="images/bnw/Arindam Vatsa.jpg" height="100px"width="100px" onmouseover="this.src='images/color/Arindam Vatsa.jpg'" onmouseout="this.src='images/bnw/Arindam Vatsa.jpg'"/><div class="caption"><br><p class="hovertext">A. Vatsa</p></div></div></td>
+			
+			<td class="spk" colspan="2" rowspan="2"><div class="imageHolder2"><img src="images/bnw/Mani Shankar.jpg" height="200px" width="200px" onmouseover="this.src='images/color/Mani Shankar.jpg'" onmouseout="this.src='images/bnw/Mani Shankar.jpg'"/><div class="caption2"><br><p class="hovertext2">M. Shankar</p></div></div></td>
+
+			
+	</tr><!--1-->
+
+<tr>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/chandra prakash khatri.jpg" height="100px" width="100px" onmouseover="this.src='images/color/chandra prakash khatri.jpg'" onmouseout="this.src='images/bnw/chandra prakash khatri.jpg'"/><div class="caption"><br><p class="hovertext">C.P. khatri</p></div></div></td>
+			<td class="spk" colspan="3" rowspan="3" ><div class="imageHolder3"><img src="images/bnw/Kiran Bedi.jpg" height="300px" width="300px" onmouseover="this.src='images/color/Kiran Bedi.jpg'" onmouseout="this.src='images/bnw/Kiran Bedi.jpg'"/><div class="caption3"><br><p class="hovertext3">Kiran Bedi</p></div></div></td>
+			
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Siddharth Ramesh.jpg" height="100px" width="100px"onmouseover="this.src='images/color/Siddharth Ramesh.jpg'" onmouseout="this.src='images/bnw/Siddharth Ramesh.jpg'"/><div class="caption"><br><p class="hovertext">S. Ramesh</p></div></div></td>
+			
+			<td class="spk" colspan="2" rowspan="2" ><div class="imageHolder2"><img src="images/bnw/BandanJot Singh.jpg" height="200px" width="200px" onmouseover="this.src='images/color/BandanJot Singh.jpg'" onmouseout="this.src='images/bnw/BandanJot Singh.jpg'"/><div class="caption2"><br><p class="hovertext2">BandanJot Singh</p></div></div></td>
+<td class="spk"><div class="imageHolder"><img src="images/bnw/Garvit Kandpal.jpg" height="100px"width="100px" onmouseover="this.src='images/color/Garvit Kandpal.jpg'" onmouseout="this.src='images/bnw/Garvit Kandpal.jpg'"/><div class="caption"><br><p class="hovertext">G. Kandpal</p></div></div></td>
+			
+			
+			
+	</tr><!--2-->
+<tr>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Manish Chauhan.jpg" height="100px" width="100px" onmouseover="this.src='images/color/Manish Chauhan.jpg'" onmouseout="this.src='images/bnw/Manish Chauhan.jpg'"/><div class="caption"><br><p class="hovertext">M. Chauhan</p></div> </div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Sai Akhilendra N.jpg" height="100px"width="100px" onmouseover="this.src='images/color/Sai Akhilendra N.jpg'" onmouseout="this.src='images/bnw/Sai Akhilendra N.jpg'"/><div class="caption"><br><p class="hovertext">S. Akhilendra N</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Rajdeep Pundir.jpg" height="100px"width="100px" onmouseover="this.src='images/color/Rajdeep Pundir.jpg'" onmouseout="this.src='images/bnw/Rajdeep Pundir.jpg'"/><div class="caption"><br><p class="hovertext">R. Pundir</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Shakti Sagar.jpg" height="100px"width="100px"onmouseover="this.src='images/color/Shakti Sagar.jpg'" onmouseout="this.src='images/bnw/Shakti Sagar.jpg'"/><div class="caption"><br><p class="hovertext">S. Sagar</p></div></div></td>
+			
+			
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Srujani Kamineni.jpg" height="100px"width="100px" onmouseover="this.src='images/color/Srujani Kamineni.jpg'" onmouseout="this.src='images/bnw/Srujani Kamineni.jpg'"/><div class="caption"><br><p class="hovertext">S. Kamineni</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Prasoon Garg.jpg" height="100px" width="100px" onmouseover="this.src='images/color/Prasoon Garg.jpg'" onmouseout="this.src='images/bnw/Prasoon Garg.jpg'"/><div class="caption"><br><p class="hovertext">P. Garg</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Shyam K Shenoy.jpg" height="100px"width="100px" onmouseover="this.src='images/color/Shyam K Shenoy.jpg'" onmouseout="this.src='images/bnw/Shyam K Shenoy.jpg'"/><div class="caption"><br><p class="hovertext">S.K. Shenoy</p></div></div></td>
+			
+			
+			
+	</tr><!--3-->
+	<tr>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Srivarsha.jpg" height="100px" width="100px" onmouseover="this.src='images/color/Srivarsha.jpg'" onmouseout="this.src='images/bnw/Srivarsha.jpg'"/><div class="caption"><br><p class="hovertext">Srivarsha</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Rajroshan Sawhney.jpg" height="100px"width="100px" onmouseover="this.src='images/color/Rajroshan Sawhney.jpg'" onmouseout="this.src='images/bnw/Rajroshan Sawhney.jpg'"/><div class="caption"><br><p class="hovertext">R. Sawhney</p></div></div></td>
+<td class="spk" colspan="3" rowspan="3"><div class="imageHolder3"><img src="images/bnw/Michele Mosca.jpg" height="300px" width="300px"  onmouseover="this.src='images/color/Michele Mosca.jpg'" onmouseout="this.src='images/bnw/Michele Mosca.jpg'"/><div class="caption3"><br><p class="hovertext3">Michele Mosca</p></div></div></td>
+			
+			<td class="spk"  colspan="2" rowspan="2"><div class="imageHolder2"><img src="images/bnw/SK Nandy.jpg" height="200px" width="200px" onmouseover="this.src='images/color/SK Nandy.jpg'" onmouseout="this.src='images/bnw/SK Nandy.jpg'"/><div class="caption2"><br><p class="hovertext2">SK Nandy</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Jaideep Singh.jpg" height="100px" width="100px" onmouseover="this.src='images/color/Jaideep Singh.jpg'" onmouseout="this.src='images/bnw/Jaideep Singh.jpg'"/><div class="caption"><br><p class="hovertext">J. Singh</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Deepthi Gorthi.jpg" height="100px"width="100px" onmouseover="this.src='images/color/Deepthi Gorthi.jpg'" onmouseout="this.src='images/bnw/Deepthi Gorthi.jpg'"/><div class="caption"><br><p class="hovertext">D. Gorthi</p></div></div></td>
+			
+			
+			
+			
+			
+	</tr><!--4--><tr>
+			<td class="spk" colspan="2" rowspan="2"><div class="imageHolder2"><img src="images/bnw/Mr. Pranava Singhal.jpg" height="200px" width="200px" onmouseover="this.src='images/color/Mr. Pranava Singhal.jpg'" onmouseout="this.src='images/bnw/Mr. Pranava Singhal.jpg'"/><div class="caption2"><br><p class="hovertext2">Mr. Pranava Singhal</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/K Vijay Rao.jpg" height="100px"width="100px" onmouseover="this.src='images/color/K Vijay Rao.jpg'" onmouseout="this.src='images/bnw/K Vijay Rao.jpg'"/><div class="caption"><br><p class="hovertext">K.V. Rao</p></div></div></td>
+			<td class="spk" colspan="2" rowspan="2"><div class="imageHolder2"><img src="images/bnw/Dr Ayanna Howard.jpg" height="200px" width="200px" onmouseover="this.src='images/color/Dr Ayanna Howard.jpg'" onmouseout="this.src='images/bnw/Dr Ayanna Howard.jpg'"/><div class="caption2"><br><p class="hovertext2">Dr Ayanna Howard</p></div></div></td>
+			<td class="spk" colspan="2" rowspan="2"><div class="imageHolder2"><img src="images/bnw/Minh Le.jpg" height="200px" width="200px" onmouseover="this.src='images/color/Minh Le.jpg'" onmouseout="this.src='images/bnw/Minh Le.jpg'"/><div class="caption2"><br><p class="hovertext2">Minh Le</p></div></div></td>
+			
+			
+			
+			
+			
+	</tr><!--5-->
+<tr>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Raghavendra Pradyumna.jpg" height="100px" width="100px" onmouseover="this.src='images/color/Raghavendra Pradyumna.jpg'" onmouseout="this.src='images/bnw/Raghavendra Pradyumna.jpg'"/><div class="caption"><br><p class="hovertext">R. Pradyumna</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Geetha Krishna.jpg" height="100px"width="100px" onmouseover="this.src='images/color/Geetha Krishna.jpg'" onmouseout="this.src='images/bnw/Geetha Krishna.jpg'"/><div class="caption"><br><p class="hovertext">G. Krishna</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Rajat Saxena.jpg" height="100px"width="100px" onmouseover="this.src='images/color/Rajat Saxena.jpg'" onmouseout="this.src='images/bnw/Rajat Saxena.jpg'"/><div class="caption"><br><p class="hovertext">R. Saxena</p></div></div></td>
+			
+
+			
+			
+			
+			
+	</tr><!--6-->
+<tr>
+			<td class="spk" colspan="3" rowspan="3"><div class="imageHolder3"><img src="images/bnw/Gayle McDowell.jpg" height="300px" width="300px" onmouseover="this.src='images/color/Gayle McDowell.jpg'" onmouseout="this.src='images/bnw/Gayle McDowell.jpg'"/><div class="caption3"><br><p class="hovertext3">Gayle McDowell</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Kartik Kumar.jpg" height="100px"width="100px" onmouseover="this.src='images/color/Kartik Kumar.jpg'" onmouseout="this.src='images/bnw/Kartik Kumar.jpg'"/><div class="caption"><br><p class="hovertext">K. Kumar</p></div></div></td>
+			<td class="spk" colspan="2" rowspan="2"><div class="imageHolder2"><img src="images/bnw/Ms. Ajita Suchitra Veera.jpg" height="200px" width="200px" onmouseover="this.src='images/color/Ms. Ajita Suchitra Veera.jpg'" onmouseout="this.src='images/bnw/Ms. Ajita Suchitra Veera.jpg'"/><div class="caption2"><br><p class="hovertext2">Ms. Ajita Veera</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Mayank Goel.jpg" height="100px"width="100px" onmouseover="this.src='images/color/Mayank Goel.jpg'" onmouseout="this.src='images/bnw/Mayank Goel.jpg'"/><div class="caption"><br><p class="hovertext">M. Goel</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Rachit Goel.jpg" height="100px" width="100px"  onmouseover="this.src='images/color/Rachit Goel.jpg'" onmouseout="this.src='images/bnw/Rachit Goel.jpg'"/><div class="caption"><br><p class="hovertext">R. Goel</p></div></div></td>
+			
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Kaustubh Nawade.jpg" height="100px" width="100px"  onmouseover="this.src='images/color/Kaustubh Nawade.jpg'" onmouseout="this.src='images/bnw/Kaustubh Nawade.jpg'"/><div class="caption"><br><p class="hovertext">K. Nawade</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Mathews M John.jpg" height="100px"width="100px"  onmouseover="this.src='images/color/Mathews M John.jpg'" onmouseout="this.src='images/bnw/Mathews M John.jpg'"/><div class="caption"><br><p class="hovertext">M John</p></div></div></td>
+<td class="spk" colspan="2" rowspan="2"><div class="imageHolder2"><img src="images/bnw/Suman Kapur.jpg" height="200px" width="200px"  onmouseover="this.src='images/color/Suman Kapur.jpg'" onmouseout="this.src='images/bnw/Suman Kapur.jpg'"/><div class="caption2"><br><p class="hovertext2">Suman Kapur</p></div></div></td>
+			
+			
+			
+	</tr><!--7-->
+<tr>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Mayank Mohta.jpg" height="100px" width="100px"  onmouseover="this.src='images/color/Mayank Mohta.jpg'" onmouseout="this.src='images/bnw/Mayank Mohta.jpg'"/><div class="caption"><br><p class="hovertext">M. Mohta</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/DP Jayakrishna.jpg" height="100px"width="100px"  onmouseover="this.src='images/color/DP Jayakrishna.jpg'" onmouseout="this.src='images/bnw/DP Jayakrishna.jpg'"/><div class="caption"><br><p class="hovertext">DP Jayakrishna</p></div></div></td>
+			<td class="spk" colspan="2" rowspan="2"><div class="imageHolder2"><img src="images/bnw/Prof Robert C Walcott.jpg" height="200px" width="200px"  onmouseover="this.src='images/color/Prof Robert C Walcott.jpg'" onmouseout="this.src='images/bnw/Prof Robert C Walcott.jpg'"/><div class="caption2"><br><p class="hovertext2">Prof Robert Walcott</p></div></div></td>
+			
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Navendu Sharma.jpg" height="100px" width="100px"  onmouseover="this.src='images/color/Navendu Sharma.jpg'" onmouseout="this.src='images/bnw/Navendu Sharma.jpg'"/><div class="caption"><br><p class="hovertext">N. Sharma</p></div></div></td>
+			
+		
+			
+			
+	</tr><!--8-->
+<tr>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Aakash Goel.jpg" height="100px" width="100px"  onmouseover="this.src='images/color/Aakash Goel.jpg'" onmouseout="this.src='images/bnw/Aakash Goel.jpg'"/><div class="caption"><br><p class="hovertext">A. Goel</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Shravan Sukumar.jpg" height="100px"width="100px" onmouseover="this.src='images/color/Shravan Sukumar.jpg'" onmouseout="this.src='images/bnw/Shravan Sukumar.jpg'"/><div class="caption"><br><p class="hovertext">S. Sukumar</p></div></div></td>
+			<td class="spk" colspan="2" rowspan="2"><div class="imageHolder2"><img src="images/bnw/Anand P Tandon.jpg" height="200px" width="200px"  onmouseover="this.src='images/color/Anand P Tandon.jpg'" onmouseout="this.src='images/bnw/Anand P Tandon.jpg'"/><div class="caption2"><br><p class="hovertext2">Anand P Tandon</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Mr Zakir Alladin.jpg" height="100px"width="100px"  onmouseover="this.src='images/color/Mr Zakir Alladin.jpg'" onmouseout="this.src='images/bnw/Mr Zakir Alladin.jpg'"/><div class="caption"><br><p class="hovertext">Mr Z. Alladin</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Sachin Joglekar.jpg" height="100px" width="100px"  onmouseover="this.src='images/color/Sachin Joglekar.jpg'" onmouseout="this.src='images/bnw/Sachin Joglekar.jpg'"/><div class="caption"><br><p class="hovertext">S. Joglekar</p></div></div></td>
+			
+			
+			<td class="spk" ><div class="imageHolder"><img src="images/bnw/Priyans Murarka.jpg" height="100px"width="100px"  onmouseover="this.src='images/color/Priyans Murarka.jpg'" onmouseout="this.src='images/bnw/Priyans Murarka.jpg'"/><div class="caption"><br><p class="hovertext">P. Murarka</p></div></div></td>
+			
+			
+			
+	</tr><!--9-->
+<tr>
+			<td class="spk" colspan="2" rowspan="2"><div class="imageHolder2"><img src="images/bnw/Prashanth P.M..jpg" height="200px" width="200px" onmouseover="this.src='images/color/Prashanth P.M..jpg',
+				" onmouseout="this.src='images/bnw/Prashanth P.M..jpg'"/><div class="caption2"><br><p class="hovertext2">Prashanth P.M.</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Ranjan A.jpg" height="100px"width="100px" onmouseover="this.src='images/color/Ranjan A.jpg'" onmouseout="this.src='images/bnw/Ranjan A.jpg'"/><div class="caption"><br><p class="hovertext">Ranjan A</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Sanjana Reddy.jpg" height="100px"width="100px" onmouseover="this.src='images/color/Sanjana Reddy.jpg'" onmouseout="this.src='images/bnw/Sanjana Reddy.jpg'"/><div class="caption"><br><p class="hovertext">S. Reddy</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/VishalKR.jpg" height="100px"width="100px" onmouseover="this.src='images/color/VishalKR.jpg'" onmouseout="this.src='images/bnw/VishalKR.jpg'"/><div class="caption"><br><p class="hovertext">Vishal KR</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Srijan Dhare.jpg" height="100px" width="100px" onmouseover="this.src='images/color/Srijan Dhare.jpg'" onmouseout="this.src='images/bnw/Srijan Dhare.jpg'"/><div class="caption"><br><p class="hovertext">S. Dhare</p></div></div></td>
+			
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Dr. Ananda Shankar Jayant.jpg" height="100px" width="100px" onmouseover="this.src='images/color/Dr. Ananda Shankar Jayant.jpg'" onmouseout="this.src='images/bnw/Dr. Ananda Shankar Jayant.jpg'"/><div class="caption"><br><p class="hovertext">Dr. A. Jayant</p></div></div></td>
+<td class="spk" colspan="3" rowspan="3""><div class="imageHolder3"><img src="images/bnw/Prof Krishna Saraswat.jpg" height="300px" width="300px" onmouseover="this.src='images/color/Prof Krishna Saraswat.jpg'" onmouseout="this.src='images/bnw/Prof Krishna Saraswat.jpg'"/><div class="caption3"><br><p class="hovertext3">Prof Krishna Saraswat</p></div></div></td>
+
+			
+			
+			
+			
+	</tr>
+<tr>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Amrita Giri.jpg" height="100px" width="100px"  onmouseover="this.src='images/color/Amrita Giri.jpg'" onmouseout="this.src='images/bnw/Amrita Giri.jpg'"/><div class="caption"><br><p class="hovertext">A. Giri</p></div></div></td>
+			<td class="spk" colspan="2" rowspan="2"><div class="imageHolder2"><img src="images/bnw/Dr. Jayesh Ranjan.jpg" height="200px" width="200px"  onmouseover="this.src='images/color/Dr. Jayesh Ranjan.jpg'" onmouseout="this.src='images/bnw/Dr. Jayesh Ranjan.jpg'"/><div class="caption2"><br><p class="hovertext2">Dr. Jayesh Ranjan</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Devanshi Kesaria.jpg" height="100px"width="100px"  onmouseover="this.src='images/color/Devanshi Kesaria.jpg'" onmouseout="this.src='images/bnw/Devanshi Kesaria.jpg'"/><div class="caption"><br><p class="hovertext">D. Kesaria</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Srivatsan Ramesh.jpg" height="100px"width="100px"  onmouseover="this.src='images/color/Srivatsan Ramesh.jpg'" onmouseout="this.src='images/bnw/Srivatsan Ramesh.jpg'"/><div class="caption"><br><p class="hovertext">S. Ramesh</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Dishin Shrimanker.jpg" height="100px" width="100px"  onmouseover="this.src='images/color/Dishin Shrimanker.jpg'" onmouseout="this.src='images/bnw/Dishin Shrimanker.jpg'"/><div class="caption"><br><p class="hovertext">D. Shrimanker</p></div></div></td>
+			
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Satwik Kottur.jpg" height="100px" width="100px"  onmouseover="this.src='images/color/Satwik Kottur.jpg'" onmouseout="this.src='images/bnw/Satwik Kottur.jpg'"/><div class="caption"><br><p class="hovertext">S. Kottur</p></div></div></td>
+			
+			
+			
+			
+	</tr>
+<tr>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Faiz Darvesh.jpg" height="100px" width="100px"  onmouseover="this.src='images/color/Faiz Darvesh.jpg'" onmouseout="this.src='images/bnw/Faiz Darvesh.jpg'"/><div class="caption"><br><p class="hovertext">F. Darvesh</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Raaz Dwivedi.jpg" height="100px"width="100px"  onmouseover="this.src='images/color/Raaz Dwivedi.jpg'" onmouseout="this.src='images/bnw/Raaz Dwivedi.jpg'"/><div class="caption"><br><p class="hovertext">R. Dwivedi</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Kunal Bhatia.jpg" height="100px"width="100px"  onmouseover="this.src='images/color/Kunal Bhatia.jpg'" onmouseout="this.src='images/bnw/Kunal Bhatia.jpg'"/><div class="caption"><br><p class="hovertext">K. Bhatia</p></div></div></td>
+			
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Siddharth Sai.jpg" height="100px" width="100px"  onmouseover="this.src='images/color/Siddharth Sai.jpg'" onmouseout="this.src='images/bnw/Siddharth Sai.jpg'"/><div class="caption"><br><p class="hovertext">Siddharth S.</p></div></div></td>
+			
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Martand Aditya.jpg" height="100px" width="100px" onmouseover="this.src='images/color/Martand Aditya.jpg'" onmouseout="this.src='images/bnw/Martand Aditya.jpg'"/><div class="caption"><br><p class="hovertext">M. Aditya</p></div></div></td>
+			<td class="spk"><div class="imageHolder"><img src="images/bnw/Chakradhar Mudium.jpg" height="100px"width="100px" onmouseover="this.src='images/color/Chakradhar Mudium.jpg',
+				" onmouseout="this.src='images/bnw/Chakradhar Mudium.jpg'"/><div class="caption"><br><p class="hovertext">C. Mudium</p></div></div></td>
+<td class="spk"><div class="imageHolder"><img src="images/bnw/Kedar Pradhan.jpg" height="100px"width="100px"  onmouseover="this.src='images/color/Kedar Pradhan.jpg'" onmouseout="this.src='images/bnw/Kedar Pradhan.jpg'"/><div class="caption"><br><p class="hovertext">K. Pradhan</p></div></div></td>
+			
+			
+			
+	</tr>
+
+</table>
+
+</div>
+
+
+<div class="container_wapper">
+    <div id="templatemo_banner_menu">
+        <div class="container-fluid">
+            <div class="col-xs-4 templatemo_logo">
+            	<a rel="nofollow" href="http://embryo.bits-pilani.ac.in">
+                	<img src="images/l3.png" id="logo_img" alt="BITS Embryo" title="BITS Embryo" />
+                	
+                </a>
+            </div>
+            <div class="col-sm-8 hidden-xs">
+                <ul class="nav nav-justified">
+                    <li><a href="#embryo" class="current">Home</a></li>
+                    <li><a href="#templatemo_about">About</a></li>
+                    <li><a href="#events">Events</a></li>
+                    <li><a href="#templatemo_timeline">Timeline</a></li>
+                    <li><a rel="nofollow" href="external.html" class="external-link">Archive</a></li>
+                    <li><a href="#templatemo_contact">Contact</a></li>
+                 </ul>
+            </div>
+            <div class="col-xs-8 visible-xs">
+                <a href="#" id="mobile_menu"><span class="glyphicon glyphicon-th-list"></span></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    
+<div id="templatemo_mobile_menu">
+        <ul class="nav nav-pills nav-stacked">
+            <li><a href="#embryo"><i class="glyphicon glyphicon-home"></i> &nbsp; Home</a></li>
+            <li><a href="#templatemo_about"><i class="glyphicon glyphicon-briefcase"></i> &nbsp; About</a></li>
+            <li><a href="#events"><i class="glyphicon glyphicon-bullhorn"></i> &nbsp; Events</a></li>
+            <li><a href="#templatemo_timeline"><i class="glyphicon glyphicon-calendar"></i> &nbsp; Timeline</a></li>
+            <li><a rel="nofollow" href="external.html" class="external-link"><i class="glyphicon glyphicon-export"></i> &nbsp; Archive</a></li>
+            <li><a href="#templatemo_contact"><i class="glyphicon glyphicon-phone-alt"></i> &nbsp; Contact</a></li>
+        </ul>
+</div>
+
+<div id="templatemo_about" class="container_wapper">
+    <div class="container-fluid">
+        <h1>About Our Organization</h1>
+
+       <!-- <div class="col-sm-6 col-md-3 about_icon">
+            <div class="imgwap mission"><i class="fa fa-rocket"></i></div>
+            <h2>Revenues</h2>
+            <p>Sed do eiusmod tempor incididunt ut labore et.</p>
+        </div>-->
+	<div class="col-sm-6 col-md-4 about_icon">
+
+           <a href="#HisModal" data-toggle="modal"><div id="history" class="imgwap testimonial"><i class="fa fa-bar-chart-o"></i></div></a>
+            <h2>History</h2>
+            
+        </div>
+
+<div id="HisModal" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >History</h4>
+</div>
+<div class="modal-body">
+BITS Embryo Hyderabad began, in 2012. It was a parallel group of the Embryo Group at Pilani. Initially, it comprised of a small group of students, led by Siddhartha Bahl, and Chinmaya Patnayak. The aim of this group was twofold- one, to arrange the logistics of major talks organised by the institute, and two, to contact prominent people across the world (yes, you read that right) and give our fellow students, an opportunity to interact with them, learn and get inspired.</br></br>
+The activities of Embryo have expanded tremendously, and are still growing. Some of the major programmes Embryo handles are BITS2MSPhd, a BITSAA initiative, which has proven to be one of the major attractions. Aside that the pre-ATMOS lectures, the ATMOS Conclave at ATMOS 2013, and the Alumni Research Talks (ART) 2013 and 2014 were all managed by Embryo Hyderabad at our Campus. Alongside them, the teams at Embryo, work throughout the year, trying to contact people and convince them to spare their time for us.
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+
+
+        <div class="col-sm-6 col-md-4 about_icon">
+            <a href="#TeamModal" data-toggle="modal"><div class="imgwap product"><i class="fa fa-group"></i></div></a>
+            <h2>Team</h2>
+            
+        </div>
+<!-- Team Modal -->
+<div id="TeamModal" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Our Team</h4>
+</div>
+<div class="modal-body">
+<table style="height:30px;">
+<tr>
+<td><b>President</b></td>	<td>Apurva Verma</td>
+</tr>	
+<tr>
+<td><b>Secretary</b></td>	<td>Anirudh Ramesh</td>
+</tr>	<tr>
+<td><b>Treasurer</b></td>	<td>Saumya Jain</td></tr>
+<tr><td>  </br></td></tr>
+<tr >	 <td colspan="2"><b>Publicity Team</b></td></tr>	
+<tr>
+<td><b>Lead</b></td>	<td>Sumeet Chawla</td>
+</tr>
+<tr>
+<td><b>Core Members</b></td>	<td>Ayush Jha</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Vivek Yadav</td>
+</tr>
+<tr>
+<td><b>Members</b></td>	<td>Aparna Kumari</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Bhavani Bhamidipaty</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>S.Vasudev</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Krishna Dhoot</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Nikhil Reddy Ch</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Sai ram Ganti</td>
+</tr>
+<tr><td>  </br></td></tr>
+
+<tr >	 <td rowspan="2"><b>Event Management Team</b></td></tr>
+<tr><td>  </br></td></tr>
+<tr>
+<td><b>Lead</b></td>	<td>Radhika P</td>
+</tr>
+<tr>
+<td><b>Core Member</b></td>	<td>Smriti Jain</td>
+</tr>
+<tr>
+<td><b>Members</b></td>	<td>Harshita Jha
+</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Aayush Khandelwal
+</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Himanshu Bagga
+</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Bharath Jonnalagadda
+</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Nimisha Agrawal
+</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Snehal Wadhwani
+</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Aniruddh Sharma
+</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Abhav Tewari
+</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Aditya Gadepalli
+</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Utkarsh Tiwari
+</td>
+</tr>
+<tr><td>  </br></td></tr>
+
+<tr >	 <td rowspan="2"><b>Communication Team</b></td></tr>
+<tr><td>  </br></td></tr>
+<tr>
+<td><b>Lead</b></td>	<td>Mitali Soni
+</td>
+</tr>
+<tr>
+<td><b>Core Member</b></td>	<td>Shivam Darmora
+</td>
+</tr>
+<tr>
+<td><b></b></td>	
+<td>Nafisa Poonawala</td>
+</tr>
+<tr>
+<tr>
+<td><b>Members</b></td>	<td>Ayush Yadav
+
+</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Shorya Chaturvedi
+</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Aditya Vidhate
+</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Vaibhav Gupta
+</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Shubham Mishra
+</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Gokul T Anandan
+</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Vishal Athreya
+</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Siddharth Dalmia
+</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Abhijeet kumar singh
+</td>
+</tr>
+<tr><td>  </br></td></tr>
+
+<tr >	 <td rowspan="2"><b>Editorial Board
+</b></td></tr>
+<tr><td>  </br></td></tr>
+<tr>
+<td><b>Lead</b></td>	<td>Sravani Nimmagadda
+
+</td>
+</tr>
+<tr>
+<td><b>Core Member</b></td>	<td>Poojitha Bondalapati
+
+</td>
+</tr>
+
+<tr>
+<tr>
+<td><b>Members</b></td>	<td>Aditya Chivukula
+</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Kartik Reddy
+</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Dhruv Garg
+</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Rakshika Bagavathy
+</td>
+</tr>
+<tr>
+<td><b></b></td>	<td>Ruth Selena
+</td>
+</tr>
+
+	
+
+</tr>
+</table>
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+        
+        <div class="col-sm-6 col-md-4 about_icon">
+            <a href="https://www.facebook.com/BITSEmbryoHyd" target="_blank"><div class="imgwap statistic"><i class="fa fa-comments"></i></div></a>
+            <h2>Social Media</h2>
+            
+        </div>
+        
+<div id="MediaModal" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Media</h4>
+</div>
+<div class="modal-body">
+Direct facebook link 
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div> 
+        <div  class="clearfix testimonial_top_bottom_spacer"></div>
+<div id="events" ><h1>Recent and Upcoming Talks</h1></div>
+        <div class="col-xs-1 pre_next_wap" id="prev_testimonial">
+            <a href="#"><span class="glyphicon glyphicon-chevron-left pre_next"></span></a>
+        </div>
+        <div id="testimonial_text_wap" class="col-xs-9 col-sm-10">
+              <div class="testimonial_text">
+                <div class="col-sm-3">
+                    <img src="images/Memon.jpg" class="img-responsive" alt="Dr. Nasir Memon" />
+                </div>
+                <div class="col-sm-9">
+                    <h2>Dr. Nasir Memon</h2>
+                    <h3>Digital Image Forensics</h3>
+                    <p>
+Nasir Memon is a professor in the Department of Computer Science and Engineering at NYU Polytechnic School of Engineering and the director of the ISIS laboratory . He has published over 250 articles in journals and conference proceedings and holds a dozen patents in image compression and security. He has won several awards including the Jacobs Excellence in Education award and several best paper awards.</p>
+                </div>
+            </div><!--.testimonial_text-->
+            <div class="testimonial_text">
+                <div class="col-sm-3">
+                    <img src="images/Engel.jpg" style="width:259px; height:250px;" class="img-responsive" alt="Joshua Engel" />
+                </div>
+                <div class="col-sm-9">
+                    <h2>Joshua Engel</h2>
+                    <h3>A Talk with Joshua Engel</h3>
+                    <p>Joshua Engel. On an undergraduate level, he holds a BS in computer science, on a graduate level, he did a master’s in CS. Went on to found his own company, in which he plays the role of a software developer. He also runs his own theater troupe Shakespeare productions, in which he directs and acts in various Shakespearean plays. He wrote a book, Programming for the Java Virtual Machine. He juggles, runs marathons, and bakes wedding cakes. He speaks a little French, Italian, and German. As of now, he has written 7,266 answers on Quora and has 26,705 followers at the moment. </p>
+                </div>
+            </div><!--.testimonial_text-->
+               </div><!--#testimonial_text_wap-->
+        <div class="col-xs-1 pre_next_wap" id="next_testimonial">
+            <a href="#"><span class="glyphicon glyphicon-chevron-right pre_next"></span></a>
+        </div>
+        <div class="clearfix testimonial_top_bottom_spacer"></div>
+    </div>
+</div><!--templatemo_about-->
+
+<script>
+var images = new Array()
+function preload() {
+for (i = 0; i < preload.arguments.length; i++) {
+images[i] = new Image()
+images[i].src = preload.arguments[i]
+}
+}
+preload(
+'images/color/Pratyush Mahapatra.jpg',
+'images/bnw/Advait Gandhe.jpg',
+'images/color/Prof Dave Irvine Halliday.jpg',
+'images/color/Shivakumar Ganesan.jpg',
+'images/color/Kartikeyan Krishnamurti.jpg',
+'images/color/Venkat Sai Ram.jpg',
+'images/color/Shashank S.jpg',
+'images/color/Chinmaya Patnayak.jpg',
+'images/color/Arindam Vatsa.jpg',
+'images/color/Mani Shankar.jpg',
+'images/color/chandra prakash khatri.jpg',
+'images/color/Kiran Bedi.jpg',
+'images/color/Siddharth Ramesh.jpg',
+'images/color/BandanJot Singh.jpg',
+'images/color/Garvit Kandpal.jpg',
+'images/color/Manish Chauhan.jpg',
+'images/color/Sai Akhilendra N.jpg',
+'images/color/Rajdeep Pundir.jpg',
+'images/color/Shakti Sagar.jpg',
+'images/color/Srujani Kamineni.jpg',
+'images/color/Prasoon Garg.jpg',
+'images/color/Shyam K Shenoy.jpg’
+'images/color/Srivarsha.jpg',
+'images/color/Rajroshan Sawhney.jpg',
+'images/color/Michele Mosca.jpg',
+"images/bnw/SK Nandy.jpg”,
+'images/color/Jaideep Singh.jpg',
+'images/color/Deepthi Gorthi.jpg',
+'images/color/Mr. Pranava Singhal.jpg',
+'images/color/K Vijay Rao.jpg',
+'images/color/Dr Ayanna Howard.jpg',
+'images/color/Minh Le.jpg',
+'images/color/Raghavendra Pradyumna.jpg',
+'images/color/Geetha Krishna.jpg',
+'images/color/Rajat Saxena.jpg',
+'images/color/Gayle McDowell.jpg',
+'images/color/Kartik Kumar.jpg',
+'images/color/Ms. Ajita Suchitra Veera.jpg',
+'images/color/Mayank Goel.jpg',
+'images/color/Rachit Goel.jpg',
+'images/color/Kaustubh Nawade.jpg',
+'images/color/Mathews M John.jpg',
+'images/color/Suman Kapur.jpg',
+'images/color/Mayank Mohta.jpg',
+'images/color/DP Jayakrishna.jpg',
+'images/color/Prof Robert C Walcott.jpg',
+'images/color/Navendu Sharma.jpg',
+'images/color/Aakash Goel.jpg',
+'images/color/Shravan Sukumar.jpg',
+'images/color/Anand P Tandon.jpg',
+'images/color/Mr Zakir Alladin.jpg',
+'images/color/Sachin Joglekar.jpg',
+'images/color/Priyans Murarka.jpg',
+'images/color/Ranjan A.jpg',
+'images/color/Sanjana Reddy.jpg',
+'images/color/VishalKR.jpg',
+'images/color/Srijan Dhare.jpg',
+'images/color/Dr. Ananda Shankar Jayant.jpg',
+'images/color/Prof Krishna Saraswat.jpg',
+'images/color/Amrita Giri.jpg',
+'images/color/Dr. Jayesh Ranjan.jpg',
+'images/color/Devanshi Kesaria.jpg',
+'images/color/Srivatsan Ramesh.jpg',
+'images/color/Dishin Shrimanker.jpg',
+'images/color/Satwik Kottur.jpg',
+'images/color/Faiz Darvesh.jpg',
+'images/color/Raaz Dwivedi.jpg',
+'images/color/Kunal Bhatia.jpg',
+'images/color/Siddharth Sai.jpg',
+'images/color/Martand Aditya.jpg',
+'images/color/Chakradhar Mudium.jpg',
+'images/color/Kedar Pradhan.jpg',
+)
+</script>
+
+<div id="templatemo_timeline" class="container_wapper" style="margin-top:-100px;">
+    <h1>Timeline</h1>
+    <div class="container-fluid">
+        <div class="time_line_wap">
+            <div class="time_line_caption">10 months ago</div>
+            <div class="time_line_paragraph">
+                <a href="#time1Modal" data-toggle="modal"><h1>Quantum Computing</h1></a>
+                <p>
+                       <span class="glyphicon glyphicon-user"></span> <a href="#">Dr. Michele Mosca</a> &nbsp;&nbsp;
+                       <span class="glyphicon glyphicon-bookmark"></span> <a href="#">Deputy Director ,Institute of Quantum Computing</a><a href="#"></a> &nbsp;&nbsp;
+                      
+                </p>
+                <p>The paradigm shift was initiated when the results of experiments couldn’t be explained by theories and a physical model set up at that time. Some of these phenomenon included Photoelectric Effect, Discrete Spectrum of Atomic Radiation, Stability of atoms, Polarization of light etc. The onset of the Quantum Theory explained several of these phenomenon. But it also brought along with it much more. </p>
+            </div>
+        </div>
+<div id="time1Modal" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Article Name</h4>
+</div>
+<div class="modal-body">
+Description
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+        <div class="time_line_wap">
+            <div class="time_line_caption">10 months ago</div>
+            <div class="time_line_paragraph">
+                <a href="#time2Modal" data-toggle="modal"><h1>What Makes Silicon Valley Tick</h1>
+                <p>
+                       <span class="glyphicon glyphicon-user"></span> <a href="#">Prof. Krishna Saraswat</a> &nbsp;&nbsp;
+                       <span class="glyphicon glyphicon-bookmark"></span> <a href="#">Rickey/Nielsen Chair, Stanford</a> <a href="#"></a> &nbsp;&nbsp;
+                       
+                </p>
+                <p>What are the secrets of the success of Silicon Valley? It accounted for about 12% of all new U.S. patents and 50% of all new patents coming from California in 2009. Silicon Valley per-capita income is much higher than U.S. and California averages. But so is the cost of living. How can Silicon Valley sustain such a high cost of living?</p>
+            </div>
+        </div>
+<div id="time2Modal" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Article Name</h4>
+</div>
+<div class="modal-body">
+Description
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+        <div class="time_line_wap">
+            <div class="time_line_caption">11 months ago</div>
+            <div class="time_line_paragraph">
+                <a href="#time3Modal" data-toggle="modal"><h1>How to Crack a Coding Interview</h1></a>
+                <p>
+                       <span class="glyphicon glyphicon-user"></span> <a href="#">Gayle McDowell</a> &nbsp;&nbsp;
+                       <span class="glyphicon glyphicon-bookmark"></span> <a href="#">Author, How to Crack a Coding Interview</a><a href="#"></a> &nbsp;&nbsp;
+                       
+                </p>
+                <p>Getting selected as a top software developer by a big tech company is a dream for many. In one of our recent talks we had Ms.Gayle McDowell giving an insight on the preparation process for an interview.</p>
+            </div>
+        </div>
+<div id="time3Modal" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Article Name</h4>
+</div>
+<div class="modal-body">
+Description
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+        <div class="time_line_wap">
+            <div class="time_line_caption">10 months ago</div>
+            <div class="time_line_paragraph">
+                <a href="#time4Modal" data-toggle="modal"><h1>Aspire Talks</h1></a>
+                <p>
+                       <span class="glyphicon glyphicon-user"></span> <a href="#">Jayesh Ranjan</a> &nbsp;&nbsp;
+                       <span class="glyphicon glyphicon-bookmark"></span> <a href="#">Managing Director, APIIC</a><a href="#"></a> &nbsp;&nbsp;
+                       
+                </p>
+                <p>He presented his last lecture in a unique manner, by narrating the stories of four of his colleagues in the IAS, who were incidentally from BITS Pilani. The ideas enshrined in his tales were diverse. He spoke about people who had achieved all the success in life, yet ended up with a broken family.</p>
+            </div>
+        </div>
+<div id="time4Modal" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Article Name</h4>
+</div>
+<div class="modal-body">
+Description
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+        <div class="time_line_wap">
+            <div class="time_line_caption">1 year ago</div>
+            <div class="time_line_paragraph">
+                <a href="#time5Modal" data-toggle="modal"><h1>Road to Space</h1></a>
+                <p>
+                       <span class="glyphicon glyphicon-user"></span> <a href="#">Mr. Kartik Kumar</a> &nbsp;&nbsp;
+                       <span class="glyphicon glyphicon-bookmark"></span> <a href="#">PhD candidate, Delft University of Technology</a><a href="#"></a> &nbsp;&nbsp;
+                       
+                </p>
+                <p>Astrodynamics, a highly upcoming specialisation in Aerospace Engineering, is simply the study of motion of objects in space. It is basically an application of Classical Mechanics. Astrodynamics is very important in applications such as launching rockets, and satellites into space. </p>
+            </div>
+        </div>
+<div id="time5Modal" class="modal fade" style="margin-top:70px;">
+ <div class="modal-dialog">
+  <div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title" >Article Name</h4>
+</div>
+<div class="modal-body">
+Description
+            </div>
+  <div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+        <div class="time_line_wap">
+            <div class="time_line_caption">1 year ago</div>
+            <div class="time_line_paragraph">
+                <h1>Importance of Leadership in today’s India</h1>
+                <p>
+                       <span class="glyphicon glyphicon-user"></span> <a href="#">Kiran Bedi</a> &nbsp;&nbsp;
+                       <span class="glyphicon glyphicon-bookmark"></span> <a href="#">India’s 1 st IPS Officer</a> <a href="#"></a> &nbsp;&nbsp;
+                       
+                </p>
+                <p>One of the early talks of this year was given by the first female IPS officer of the country, an inspiration to millions, and a woman of principles, Dr, Kiran Bedi. Dr. Bedi focused on the role leadership plays in our daily life, spoke about what distinguishes a leader from the crowd.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="templatemo_contact" class="container_wapper">
+    <div class="container-fluid">
+        <h1>Contact</h1>
+        
+        <div class="col-md-4">
+            <h2>Contact Info.</h2>
+            <p></p>
+            <br>
+            <p><strong>Email:</strong> <br /><strong>Phone:</strong><br /><strong>Address:</strong> BITS Pilani Hyderabad Campus, Shameerpet, Pin - 500078</p>
+            <ul class="list-inline social-link">
+                
+                <li>
+                    <a href="#"><i class="fa fa-twitter"></i></a> 
+                </li>
+                <li>
+                    <a href="https://www.facebook.com/BITSEmbryoHyd" target="_blank"><i class="fa fa-facebook"></i></a> 
+                </li>
+                <li>
+                    <a href="#"><i class="fa fa-youtube"></i></a> 
+                </li>
+                
+           </ul>
+        </div>
+        <form action="#" method="post" class="col-md-8">
+            <div class="row">
+                <div class="col-md-12">
+                <h2>Send Enquiry</h2>
+                </div>
+                <div class="col-md-6">
+                    <p>Name</p>
+                    <input type="text" name="name" id="name" placeholder="Your Name" />
+                </div>
+                <div class="col-md-6">
+                    <p>Email</p>
+                    <input type="text" name="email" id="email" placeholder="Your Email" />
+                </div>
+                <div class="col-md-12">
+                    <p>Subject</p>
+                    <input type="text" name="subject" id="subject" placeholder="Subject" />
+                </div>
+                <div class="col-md-12">
+                    <p>Message</p>
+                    <textarea name="message" id="message"  placeholder="Write your message here..."></textarea>
+                </div>
+                <div class="col-xs-6 col-sm-3 col-md-offset-6">
+                    <button type="submit">Send</button>
+                </div>
+                <div class="col-xs-6 col-sm-3">
+                    <button type="reset">Reset</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<div id="templatemo_footer">
+    <div>
+        <p id="footer">Copyright &copy;Embryo</p>
+    </div>
+</div>
+<script src="js/jquery.min.js"></script>
+<script src="js/jquery-ui.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.singlePageNav.min.js"></script>
+<script src="js/unslider.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+<script src="js/templatemo_script.js"></script>
+</body>
+</html>

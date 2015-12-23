@@ -1,0 +1,48 @@
+<!DOCTYPE html> 
+<html > 
+
+<head>
+
+ <style type="text/css"> 
+
+.imageHolder { 
+		position: relative; 
+		width: 100px; 
+		height: 100px; 
+		} 
+
+.imageHolder .caption { 
+		opacity: 0; 
+		position: absolute; 
+		height:20px; 
+		width: 100px; 
+		bottom: 0px; 
+		left: 0px; 
+		padding: 0px 0px; 
+		color: white; 
+		font-size:10px; 
+		background: black; 
+		text-align: center;
+vertical-align:center; 
+		 }
+
+.imageHolder:hover .caption { opacity: 0.6; } 
+.imageHolder .caption:hover { opacity:0.3;} 
+
+
+</style>
+
+
+ </head> 
+
+
+<body> 
+
+
+<div class="imageHolder"> 
+	<img src="images/bnw/Pratyush Mahapatra.jpg" height="100px"width="100px"onmouseover="this.src='images/color/Pratyush Mahapatra.jpg'" onmouseout="this.src='images/bnw/Pratyush Mahapatra.jpg'"/>
+		<div class="caption"><br>Caption goes here</div>   
+	</div> 
+</body> 
+
+</html> 
